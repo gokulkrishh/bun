@@ -1,7 +1,15 @@
 # [bun](https://bun.sh/)
 
-Install
+### [Live]
+
+### Install
 
 ```bash
 curl https://bun.sh/install | bash
+```
+
+### Run
+
+```bash
+npm run start
 ```
